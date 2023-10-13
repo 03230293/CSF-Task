@@ -1,0 +1,5 @@
+age=int(18)
+print(age)
+name= ("Dorji")
+print(type(name))
+print(age, type(name))
